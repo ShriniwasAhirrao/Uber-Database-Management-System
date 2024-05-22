@@ -104,7 +104,7 @@ The project contains the following files:
 ### Steps to Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/ShriniwasAhirrao/Uber_DBMS.git
+   git clone[ https://github.com/ShriniwasAhirrao/Uber-Database-Management-System.git
    cd Uber_DBMS
    
 2. **Open SQL Server Management Studio (SSMS)**
